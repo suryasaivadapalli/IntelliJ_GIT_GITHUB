@@ -10,3 +10,4 @@ class Adapter
         System.out.println("Weclome To Java Programming");
 }
 }
+// Adding to QA 
