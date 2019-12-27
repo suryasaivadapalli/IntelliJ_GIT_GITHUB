@@ -10,3 +10,5 @@ class Adapter
         System.out.println("Weclome To Java Programming");
 }
 }
+
+// Added with Branch QA for further Reference
