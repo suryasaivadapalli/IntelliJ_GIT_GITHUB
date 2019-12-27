@@ -1,2 +1,12 @@
 //Version 00
 // Weclome to Java Programming
+
+
+// Version 01
+
+class Adapter
+{
+    public.static.void.main(String args[]) {
+        System.out.println("Weclome To Java Programming");
+}
+}
